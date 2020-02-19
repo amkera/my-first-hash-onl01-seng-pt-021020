@@ -28,7 +28,6 @@ def retrieval
                  
 
 end
-retrieval
 
 def adding
   shipping_manifest = {
